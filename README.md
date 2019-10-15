@@ -2,7 +2,7 @@
 
 Maria Gill, Ruben Green, Dorian Jimenez, Alejandro Marquez Vera
 
-landing page
+landing page - maria
 
 top bar - ruben
 
@@ -10,7 +10,7 @@ about engineering - dorian
 
 about CS - dorian
 
-Jobs
+Jobs - maria
 
 Learn CS
 
