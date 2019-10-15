@@ -4,14 +4,14 @@ Maria Gill, Ruben Green, Dorian Jimenez, Alejandro Marquez Vera
 
 landing page
 
-top bar
+top bar - ruben
 
-about engineering
+about engineering - dorian
 
-about CS
+about CS - dorian
 
 Jobs
 
 Learn CS
 
-about us
+about us - all
