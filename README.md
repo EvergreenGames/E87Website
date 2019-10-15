@@ -6,14 +6,14 @@ landing page - maria
 
 top bar - ruben
 
-about engineering - dorian
+about engineering - dorian, alex
 
 about CS - dorian
 
 Jobs - maria
 
-Learn CS
+Learn CS alex
 
 about us - all
 
-CSS template - ruben
+CSS template - ruben, alex
