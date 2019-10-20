@@ -1,6 +1,12 @@
 body
 {
 	margin: 0px;
+	font-family: monospace;
+}
+
+#main
+{
+	padding: 20px;
 }
 
 .topbar
