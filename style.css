@@ -31,6 +31,7 @@ body
 .topbar a:hover
 {
 	background-color: #ddd;
+	transition: 0.1s;
 }
 
 .logo
@@ -50,4 +51,53 @@ body
 	border-width: 0px;
 	border-bottom-width: 2px;
 	border-color: dodgerblue;
+}
+
+#about-header h1
+{
+	text-align: center;
+}
+
+.about-entry
+{
+	background-color: #f1f1f1;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.about-entry:hover
+{
+	background-color: #ebebeb;
+	transition: 0.1s;
+}
+
+.about-entry::after 
+{
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.about-entry-alt
+{
+	text-align: right;
+}
+.pfp
+{
+	width: 20%;
+	float: left;
+	border: 2px solid dodgerblue;
+	border-radius: 5px;
+	margin-right: 2%;
+}
+
+.pfpalt
+{
+	width: 20%;
+	float: right;
+	border: 2px solid dodgerblue;
+	border-radius: 5px;
+	margin-left: 2%;
 }
